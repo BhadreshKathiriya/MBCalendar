@@ -1,5 +1,5 @@
 # MBCalendar
 
-Add below code in AppDelegate.m file:
+//  Add below code in AppDelegate.m file:
 
-self.window.rootViewController = [[CKDemoViewController alloc] init];
+//  self.window.rootViewController = [[CKDemoViewController alloc] init];
